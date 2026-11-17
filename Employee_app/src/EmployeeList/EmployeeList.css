@@ -1,0 +1,26 @@
+
+
+.employee-list {
+  padding: 30px;
+}
+
+.employee-list h1 {
+  color: #1e40af;
+  text-align: center;
+}
+
+.employee-list input {
+  display: block;
+  width: 300px;
+  padding: 12px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.employee-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
